@@ -15,3 +15,4 @@ node_modules/
 react-native/lib/
 *.tgz
 coverage/
+config.bat
